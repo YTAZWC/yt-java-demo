@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="polymorphism-demo" />
+        <module name="inner-classes-demo" />
         <module name="interface-demo" />
       </profile>
     </annotationProcessing>

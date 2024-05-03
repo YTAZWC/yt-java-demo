@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/polymorphism-demo/pom.xml" />
         <option value="$PROJECT_DIR$/interface-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/inner-classes-demo/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
