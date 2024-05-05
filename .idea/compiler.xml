@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="polymorphism-demo" />
         <module name="inner-classes-demo" />
+        <module name="equals-hashcode-demo" />
         <module name="interface-demo" />
+        <module name="polymorphism-demo" />
       </profile>
     </annotationProcessing>
   </component>
