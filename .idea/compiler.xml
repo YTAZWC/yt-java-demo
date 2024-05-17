@@ -9,6 +9,7 @@
         <module name="inner-classes-demo" />
         <module name="equals-hashcode-demo" />
         <module name="interface-demo" />
+        <module name="exception-demo" />
         <module name="polymorphism-demo" />
       </profile>
     </annotationProcessing>

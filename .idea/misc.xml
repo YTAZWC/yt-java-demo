@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/interface-demo/pom.xml" />
         <option value="$PROJECT_DIR$/inner-classes-demo/pom.xml" />
         <option value="$PROJECT_DIR$/equals-hashcode-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/exception-demo/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
